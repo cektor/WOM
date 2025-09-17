@@ -5,7 +5,7 @@
 # WOM - Windows OEM Master
 Adding and Editing Professional OEM Manufacturer Information to Windows Versions
 
-<h1 align="center">GiPac Logo</h1>
+<h1 align="center">WOM Logo</h1>
 
 <p align="center">
   <img src="WOM.png" alt="WOM Logo" width="150" height="150">
@@ -19,7 +19,7 @@ Adding and Editing Professional OEM Manufacturer Information to Windows Versions
 
 --------------------
 
-# Windows'a doğrudan yüklemek için
+# To install directly on Windows
 
 Windows Installer CMD (PowerShell): To Install from Windows CMD Using a Direct Link.
 ```bash
