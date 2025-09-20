@@ -23,7 +23,8 @@ Adding and Editing Professional OEM Manufacturer Information to Windows Versions
 
 Windows Installer CMD (PowerShell): To Install from Windows CMD Using a Direct Link.
 ```bash
-powershell -Command "Invoke-WebRequest -Uri 'https://github.com/cektor/WOM/releases/download/1.0.0/Setup_Win64.exe' -OutFile 'Setup_Win64.exe'" && start /wait Setup_Win64.exe
+powershell -Command "Invoke-WebRequest -Uri 'https://github.com/cektor/WOM/releases/download/1.0.0/Setup_Win64.exe' -OutFile 'Setup_Win64.exe'; Start-Process -FilePath '.\Setup_Win64.exe' -Wait"
+
 ```
 
 
